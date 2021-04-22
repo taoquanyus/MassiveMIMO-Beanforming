@@ -13,3 +13,5 @@ It is a simple simulation tools of Array antenna beamforming based on Matlab GUI
 + Beamforming By Steering Vevtor
 + Beamforming by codebook (two implemented by other papers, one designed by myself)
 
+Full article [download](MassiveMIMO&Beamforming.pdf)
+
