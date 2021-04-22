@@ -1,5 +1,5 @@
 # MassiveMIMO-Beanforming
-It is a simple simulation tools of arrays antenna beamforming based on Matlab GUI. Aiming to help Beamforming beginers quickly start arrays Antenna learing.
+It is a simple simulation tools of Array antenna beamforming based on Matlab GUI. Aiming to help Beamforming beginers quickly start arrays Antenna learing.
 
 #### quick start
 ##### environment:Matlab 2020a +
